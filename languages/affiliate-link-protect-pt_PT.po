@@ -1,0 +1,108 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: affiliate-link-protect\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-10-20 17:04+0000\n"
+"PO-Revision-Date: 2017-10-20 17:04+0000\n"
+"Last-Translator: admin <info@virelin.com>\n"
+"Language-Team: Portuguese (Portugal)\n"
+"Language: pt-PT\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: includes/AffiliateLinkProtect-admin.php:50
+msgid "Hide your affiliate parameters from all links on your blog!"
+msgstr "Esconda seus parâmetros de afiliados de todos os links em seu blog! "
+
+#: includes/AffiliateLinkProtect-admin.php:60
+msgid ""
+"Add this parameter (e.g. \"&alp=1\") to specific links that shall be "
+"protected."
+msgstr ""
+"Adicione este parâmetro (por exemplo, \"&alp=1\") a links específicos que "
+"devem ser protegidos"
+
+#: includes/AffiliateLinkProtect-admin.php:74
+msgid ""
+"When a blog page is displayed this plugin saves specific links in the page "
+"to memory and displays the urls on \"mouse over\" without parameters."
+msgstr ""
+"Quando uma página do blog é exibida, este plugin salva todos os links na "
+"página na memória e exibe as URLs no \"mouse over\" sem parâmetros."
+
+#: includes/AffiliateLinkProtect-admin.php:26
+#, php-format
+msgid ""
+"You have been using <span style='color:#cc0000;font-weight:bold;'>Affiliate "
+"Link Protect</span> for a while ... do you like it? If so, please <span "
+"style='color:#cc0000;font-weight:bold;'>leave us a review</span> with your "
+"feedback! <a href='%s' target='_blank'>Leave A Review</a> <I><a "
+"style='margin-left:5px' href='%s'>already Done</a></I>"
+msgstr ""
+"Você usou <span style = 'color: # cc0000; font-weight: bold;'>Affiliate Link "
+"Protect</ span> por um tempo ... você gosta? Em caso afirmativo, por favor "
+"<span style = 'color: # cc0000; font-weight: bold;'>deixe-nos uma "
+"avaliação</ span> com seus comentários! <a href='%s' target='_blank'>Deixe "
+"uma revisão</a> <I> <a style='margin-left:5px' href='%s'>já feito</a> </ I>"
+
+#: includes/AffiliateLinkProtect-admin.php:51
+msgid "To become more specific you may use the following fields:"
+msgstr "Para se tornar mais específico, você pode usar os seguintes campos:"
+
+#: includes/AffiliateLinkProtect-admin.php:58
+msgid "Parameter for recognition"
+msgstr "Parâmetro para reconhecimento"
+
+#: includes/AffiliateLinkProtect-admin.php:64
+msgid "Parameters to hide"
+msgstr "Parâmetros para esconder"
+
+#: includes/AffiliateLinkProtect-admin.php:66
+msgid ""
+"comma separated list of parameters to hide - leave empty to hide all "
+"parameters"
+msgstr ""
+"ista de parâmetros separada por vírgula para ocultar - deixe vazio para "
+"ocultar todos os parâmetros"
+
+#: includes/AffiliateLinkProtect-admin.php:73
+msgid "How it works"
+msgstr "Como funciona"
+
+#: includes/AffiliateLinkProtect-admin.php:75
+msgid ""
+"As soon as a link is clicked the user is directed to the internally saved "
+"link including all parameters"
+msgstr ""
+"Assim que um link for clicado, o usuário é direcionado para o link guardado "
+"internamente, incluindo todos os parâmetros"
+
+#. Name of the plugin
+msgid "Affiliate Link Protect"
+msgstr "Affiliate Link Protect"
+
+#. Description of the plugin
+msgid ""
+"Affiliate Link Protect hides all or specific URL parameters in any link of "
+"any Wordpress website. Displays all affiliate links like normal links "
+"without cloaking them!"
+msgstr ""
+"Esconda seus parâmetros de afiliados de todos os links em seu blog! Sem "
+"configuração adicional, este plugin irá ocultar todos os parâmetros em todos "
+"os links externos / internos do seu blog, que é bom para a maioria das "
+"situações."
+
+#. URI of the plugin
+msgid "http://virelin.com/AffiliateLinkProtect"
+msgstr "http://virelin.com/AffiliateLinkProtect"
+
+#. Author of the plugin
+msgid "Virelin Inc."
+msgstr "Virelin Inc."
+
+#. Author URI of the plugin
+msgid "http://virelin.com"
+msgstr "http://virelin.com"

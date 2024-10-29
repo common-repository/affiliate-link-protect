@@ -1,0 +1,92 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-10-20 16:53+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: includes/AffiliateLinkProtect-admin.php:26
+#, php-format
+msgid ""
+"You have been using <span style='color:#cc0000;font-weight:bold;'>Affiliate "
+"Link Protect</span> for a while ... do you like it? If so, please <span "
+"style='color:#cc0000;font-weight:bold;'>leave us a review</span> with your "
+"feedback! <a href='%s' target='_blank'>Leave A Review</a> <I><a "
+"style='margin-left:5px' href='%s'>already Done</a></I>"
+msgstr ""
+
+#: includes/AffiliateLinkProtect-admin.php:50
+msgid "Hide your affiliate parameters from all links on your blog!"
+msgstr ""
+
+#: includes/AffiliateLinkProtect-admin.php:51
+msgid "To become more specific you may use the following fields:"
+msgstr ""
+
+#: includes/AffiliateLinkProtect-admin.php:58
+msgid "Parameter for recognition"
+msgstr ""
+
+#: includes/AffiliateLinkProtect-admin.php:60
+msgid ""
+"Add this parameter (e.g. \"&alp=1\") to specific links that shall be "
+"protected."
+msgstr ""
+
+#: includes/AffiliateLinkProtect-admin.php:64
+msgid "Parameters to hide"
+msgstr ""
+
+#: includes/AffiliateLinkProtect-admin.php:66
+msgid ""
+"comma separated list of parameters to hide - leave empty to hide all "
+"parameters"
+msgstr ""
+
+#: includes/AffiliateLinkProtect-admin.php:73
+msgid "How it works"
+msgstr ""
+
+#: includes/AffiliateLinkProtect-admin.php:74
+msgid ""
+"When a blog page is displayed this plugin saves specific links in the page "
+"to memory and displays the urls on \"mouse over\" without parameters."
+msgstr ""
+
+#: includes/AffiliateLinkProtect-admin.php:75
+msgid ""
+"As soon as a link is clicked the user is directed to the internally saved "
+"link including all parameters"
+msgstr ""
+
+#. Name of the plugin
+msgid "Affiliate Link Protect"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Affiliate Link Protect hides all or specific URL parameters in any link of "
+"any Wordpress website. Displays all affiliate links like normal links "
+"without cloaking them!"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://virelin.com/AffiliateLinkProtect"
+msgstr ""
+
+#. Author of the plugin
+msgid "Virelin Inc."
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://virelin.com"
+msgstr ""

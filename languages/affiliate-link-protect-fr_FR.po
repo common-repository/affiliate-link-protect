@@ -1,0 +1,109 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: affiliate-link-protect\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-10-20 17:05+0000\n"
+"PO-Revision-Date: 2017-10-20 17:05+0000\n"
+"Last-Translator: admin <info@virelin.com>\n"
+"Language-Team: French (France)\n"
+"Language: fr-FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: includes/AffiliateLinkProtect-admin.php:50
+msgid "Hide your affiliate parameters from all links on your blog!"
+msgstr "Cacher vos paramètres d'affiliation de tous les liens sur votre blog! "
+
+#: includes/AffiliateLinkProtect-admin.php:60
+msgid ""
+"Add this parameter (e.g. \"&alp=1\") to specific links that shall be "
+"protected."
+msgstr ""
+"Ajoutez ce paramètre (par exemple \"&alp=1\") aux liens spécifiques qui "
+"doivent être protégés"
+
+#: includes/AffiliateLinkProtect-admin.php:74
+msgid ""
+"When a blog page is displayed this plugin saves specific links in the page "
+"to memory and displays the urls on \"mouse over\" without parameters."
+msgstr ""
+"Quand une page de blog est affichée, ce plugin enregistre tous les liens de "
+"la page en mémoire et affiche les urls sur \"mouse over\" sans paramètres."
+
+#: includes/AffiliateLinkProtect-admin.php:26
+#, php-format
+msgid ""
+"You have been using <span style='color:#cc0000;font-weight:bold;'>Affiliate "
+"Link Protect</span> for a while ... do you like it? If so, please <span "
+"style='color:#cc0000;font-weight:bold;'>leave us a review</span> with your "
+"feedback! <a href='%s' target='_blank'>Leave A Review</a> <I><a "
+"style='margin-left:5px' href='%s'>already Done</a></I>"
+msgstr ""
+"Vous avez utilisé pendant un certain temps <span style = 'color: # cc0000; "
+"font-weight: bold;'>Affiliate Link Protect</ span> ... vous aimez? Si oui, "
+"s'il vous plaît <span style = 'couleur: # cc0000; font-weight: bold;'>"
+"laissez-nous un avis</ span> avec vos commentaires! <a href='%s' "
+"target='_blank'>Laisser un commentaire</a> <I> <a style='margin-left:5px' "
+"href='%s'>Déjà fait</a></ I>"
+
+#: includes/AffiliateLinkProtect-admin.php:51
+msgid "To become more specific you may use the following fields:"
+msgstr "Pour être plus précis, vous pouvez utiliser les champs suivants:"
+
+#: includes/AffiliateLinkProtect-admin.php:58
+msgid "Parameter for recognition"
+msgstr "Paramètre pour la reconnaissance"
+
+#: includes/AffiliateLinkProtect-admin.php:64
+msgid "Parameters to hide"
+msgstr "Paramètres à masquer"
+
+#: includes/AffiliateLinkProtect-admin.php:66
+msgid ""
+"comma separated list of parameters to hide - leave empty to hide all "
+"parameters"
+msgstr ""
+"liste de paramètres séparés par des virgules à masquer - laisser vide pour "
+"masquer tous les paramètres"
+
+#: includes/AffiliateLinkProtect-admin.php:73
+msgid "How it works"
+msgstr "Comment ça marche"
+
+#: includes/AffiliateLinkProtect-admin.php:75
+msgid ""
+"As soon as a link is clicked the user is directed to the internally saved "
+"link including all parameters"
+msgstr ""
+"Dès qu'un lien est cliqué, l'utilisateur est dirigé vers le lien enregistré "
+"en interne, y compris tous les paramètres"
+
+#. Name of the plugin
+msgid "Affiliate Link Protect"
+msgstr "Affiliate Link Protect"
+
+#. Description of the plugin
+msgid ""
+"Affiliate Link Protect hides all or specific URL parameters in any link of "
+"any Wordpress website. Displays all affiliate links like normal links "
+"without cloaking them!"
+msgstr ""
+"Cacher vos paramètres d'affiliation de tous les liens sur votre blog! Sans "
+"autre configuration, ce plugin va cacher tous les paramètres dans tous les "
+"liens externes / internes de votre blog, ce qui est bien pour la plupart des "
+"situations."
+
+#. URI of the plugin
+msgid "http://virelin.com/AffiliateLinkProtect"
+msgstr "http://virelin.com/AffiliateLinkProtect"
+
+#. Author of the plugin
+msgid "Virelin Inc."
+msgstr "Virelin Inc."
+
+#. Author URI of the plugin
+msgid "http://virelin.com"
+msgstr "http://virelin.com"
